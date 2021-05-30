@@ -25,8 +25,10 @@ projects:
   exclude:
     archived: false
     forks: true
-    projects: begood-chenhong.github.io hello-world
-    # - repo-name
+    projects: 
+      # - repo-name
+      - begood-chenhong.github.io 
+      - hello-world
 
 social_media:
   facebook: begood_chenhong@hotmail.com
